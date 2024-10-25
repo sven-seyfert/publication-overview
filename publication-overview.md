@@ -43,5 +43,5 @@
 
 
 
-[sven]:         https://raw.githubusercontent.com/sven-seyfert/publication-overview/refs/heads/main/assets/images/sven.png?token=GHSAT0AAAAAACXCFZUQ7NJ3Z26XJEWB7QNMZY3IAYQ
-[solve-smart]:  https://raw.githubusercontent.com/sven-seyfert/publication-overview/refs/heads/main/assets/images/solve-smart.png?token=GHSAT0AAAAAACXCFZURKIMY5LSME3ADF2YEZY3IAEQ
+[sven]:         assets/images/sven.png
+[solve-smart]:  assets/images/solve-smart.png
