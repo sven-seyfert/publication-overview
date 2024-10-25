@@ -30,14 +30,14 @@
 ## share
 
 ### via posts
-#### [![x](https://img.shields.io/badge/@sven__seyfert-1DA1F2?style=for-the-badge&labelColor=black&logo=x&logoColor=1DA1F2)](https://x.com/sven_seyfert)
+#### [![x](https://img.shields.io/badge/sven__seyfert-1DA1F2?style=for-the-badge&labelColor=black&logo=x&logoColor=1DA1F2)](https://x.com/sven_seyfert)
 
 ### via shorts
-#### [![youtube](https://img.shields.io/badge/@Solve--Smart-D94D4A?style=for-the-badge&labelColor=black&logo=youtube&logoColor=D94D4A)](https://www.youtube.com/@solvesmart)
+#### [![youtube](https://img.shields.io/badge/Solve--Smart-D94D4A?style=for-the-badge&labelColor=black&logo=youtube&logoColor=D94D4A)](https://www.youtube.com/@solvesmart)
 
 ## projects
 
-### [![github.com](https://img.shields.io/badge/github.com-FFFFFF?style=for-the-badge&labelColor=black&logo=github&logoColor=FFFFFF)](https://github.com/sven-seyfert)
+### [![github.com](https://img.shields.io/badge/github.com-F7F4ED?style=for-the-badge&labelColor=black&logo=github&logoColor=F7F4ED)](https://github.com/sven-seyfert)
 #### autoit-webdriver-boilerplate ...
 #### VSCode-AutoItSnippets ...
 #### ...
