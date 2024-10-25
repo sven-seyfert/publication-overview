@@ -43,5 +43,5 @@
 
 
 
-[sven]:         assets/images/sven.png
-[solve-smart]:  assets/images/solve-smart.png
+[sven]:         ../assets/images/sven.png
+[solve-smart]:  ../assets/images/solve-smart.png

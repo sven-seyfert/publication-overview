@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Markmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.17.2/dist/style.css">
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.8.5/dist/d3.min.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.17.2/dist/browser/index.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.17.2/dist/index.js"></script><script>(r => {
+                setTimeout(r);
+              })(() => {
+  const {
+    markmap,
+    mm
+  } = window;
+  const {
+    el
+  } = markmap.Toolbar.create(mm);
+  el.setAttribute('style', 'position:absolute;bottom:20px;right:20px');
+  document.body.append(el);
+})</script><script>((getMarkmap, getOptions, root2, jsonOptions) => {
+              const markmap = getMarkmap();
+              window.mm = markmap.Markmap.create(
+                "svg#mindmap",
+                (getOptions || markmap.deriveOptions)(jsonOptions),
+                root2
+              );
+            })(() => window.markmap,null,{"content":"<img src=\"assets/images/sven.png\" alt=\"sven\"> <img src=\"assets/images/solve-smart.png\" alt=\"solve-smart\"><br>Sven aka SOLVE-SMART","children":[{"content":"publications","children":[{"content":"<a href=\"https://dev.to/solvesmart\"><img src=\"https://img.shields.io/badge/dev.to-777777?style=for-the-badge&amp;labelColor=black&amp;logo=devdotto&amp;logoColor=777777\" alt=\"dev.to\"></a>","children":[{"content":"<a href=\"https://dev.to/solvesmart/web-automation-with-autoit-did-you-know-it-is-possible-1a1l\">Web Automation with AutoIt: 🔮 Did you know it is possible?</a>","children":[],"payload":{"lines":"5,6"}}],"payload":{"lines":"4,5"}},{"content":"<a href=\"https://hashnode.com/@solvesmart\"><img src=\"https://img.shields.io/badge/hashnode.com-2962FF?style=for-the-badge&amp;labelColor=black&amp;logo=hashnode&amp;logoColor=2962FF\" alt=\"hashnode.com\"></a>","children":[{"content":"<a href=\"https://sven-seyfert.hashnode.dev/web-automation-with-autoit-did-you-know-it-is-possible\">Web Automation with AutoIt: 🔮 Did you know it is possible?</a>","children":[],"payload":{"lines":"8,9"}}],"payload":{"lines":"7,8"}},{"content":"<a href=\"https://medium.com/@solvesmart\"><img src=\"https://img.shields.io/badge/medium.com-F7F4ED?style=for-the-badge&amp;labelColor=black&amp;logo=medium&amp;logoColor=F7F4ED\" alt=\"medium.com\"></a>","children":[{"content":"<a href=\"https://medium.com/@solvesmart/web-automation-with-autoit-did-you-know-it-is-possible-4c474d0ec13f\">Web Automation with AutoIt: 🔮 Did you know it is possible?</a>","children":[],"payload":{"lines":"11,12"}}],"payload":{"lines":"10,11"}},{"content":"<a href=\"https://cheatography.com/solve-smart\"><img src=\"https://img.shields.io/badge/cheatography.com-F47C00?style=for-the-badge&amp;labelColor=black&amp;logo=celery&amp;logoColor=F47C00\" alt=\"cheatography.com\"></a>","children":[{"content":"<a href=\"https://cheatography.com/solve-smart/cheat-sheets/autoit-de/\">AutoIt (de) Cheat Sheet</a>","children":[],"payload":{"lines":"14,15"}},{"content":"<a href=\"https://cheatography.com/solve-smart/cheat-sheets/autoit-en/\">AutoIt (en) Cheat Sheet</a>","children":[],"payload":{"lines":"15,16"}}],"payload":{"lines":"13,14"}},{"content":"<a href=\"https://sven-seyfert.de\"><img src=\"https://img.shields.io/badge/sven--seyfert.de-648293?style=for-the-badge&amp;labelColor=black&amp;logo=HTML5&amp;logoColor=648293\" alt=\"sven-seyfert.de\"></a>","children":[{"content":"✔ up-to-date","children":[{"content":"<a href=\"https://sven-seyfert.de/media/pdf/TestPyramid.pdf\">Test Pyramid (en)</a>","children":[],"payload":{"lines":"19,20"}},{"content":"<a href=\"https://sven-seyfert.de/media/pdf/TDD_BDD_ATDD.pdf\">TDD, BDD &amp; ATDD</a>","children":[],"payload":{"lines":"20,21"}}],"payload":{"lines":"18,19"}},{"content":"✖ old","children":[{"content":"<a href=\"https://sven-seyfert.de/media/pdf/SpecFlowSeleniumAbstractionLevels.pdf\">Abstraction levels of a SpecFlow-Selenium approach (en)</a>","children":[],"payload":{"lines":"23,24"}},{"content":"<a href=\"https://sven-seyfert.de/media/pdf/LogFramework.pdf\">LogFramework</a>","children":[],"payload":{"lines":"24,25"}},{"content":"<a href=\"https://sven-seyfert.de/media/pdf/DB_GlobalInsertGen.pdf\">DB_GlobalInsertGen</a>","children":[],"payload":{"lines":"25,26"}}],"payload":{"lines":"22,23"}}],"payload":{"lines":"17,18"}}],"payload":{"lines":"2,3"}},{"content":"share","children":[{"content":"via posts","children":[{"content":"<a href=\"https://x.com/sven_seyfert\"><img src=\"https://img.shields.io/badge/sven__seyfert-1DA1F2?style=for-the-badge&amp;labelColor=black&amp;logo=x&amp;logoColor=1DA1F2\" alt=\"x\"></a>","children":[],"payload":{"lines":"30,31"}}],"payload":{"lines":"29,30"}},{"content":"via shorts","children":[{"content":"<a href=\"https://www.youtube.com/@solvesmart\"><img src=\"https://img.shields.io/badge/Solve--Smart-D94D4A?style=for-the-badge&amp;labelColor=black&amp;logo=youtube&amp;logoColor=D94D4A\" alt=\"youtube\"></a>","children":[],"payload":{"lines":"33,34"}}],"payload":{"lines":"32,33"}}],"payload":{"lines":"27,28"}},{"content":"projects","children":[{"content":"GitHub","children":[{"content":"...","children":[],"payload":{"lines":"38,39"}}],"payload":{"lines":"37,38"}},{"content":"GitLab","children":[{"content":"...","children":[],"payload":{"lines":"41,42"}}],"payload":{"lines":"40,41"}}],"payload":{"lines":"35,36"}}],"payload":{"lines":"0,1"}},{})</script>
+</body>
+</html>
