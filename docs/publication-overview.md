@@ -4,13 +4,16 @@
 ### articles
 
 #### [![dev.to](https://img.shields.io/badge/dev.to-777777?style=for-the-badge&labelColor=black&logo=devdotto&logoColor=777777)](https://dev.to/solvesmart)
-##### [Web Automation with AutoIt: 🔮 Did you know it is possible?](https://dev.to/solvesmart/web-automation-with-autoit-did-you-know-it-is-possible-1a1l)
+##### 2024-10
+###### [Web Automation with AutoIt: 🔮 Did you know it is possible?](https://dev.to/solvesmart/web-automation-with-autoit-did-you-know-it-is-possible-1a1l)
 
 #### [![hashnode.com](https://img.shields.io/badge/hashnode.com-2962FF?style=for-the-badge&labelColor=black&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@solvesmart)
-##### [Web Automation with AutoIt: 🔮 Did you know it is possible?](https://sven-seyfert.hashnode.dev/web-automation-with-autoit-did-you-know-it-is-possible)
+##### 2024-10
+###### [Web Automation with AutoIt: 🔮 Did you know it is possible?](https://sven-seyfert.hashnode.dev/web-automation-with-autoit-did-you-know-it-is-possible)
 
 #### [![medium.com](https://img.shields.io/badge/medium.com-F7F4ED?style=for-the-badge&labelColor=black&logo=medium&logoColor=F7F4ED)](https://medium.com/@solvesmart)
-##### [Web Automation with AutoIt: 🔮 Did you know it is possible?](https://medium.com/@solvesmart/web-automation-with-autoit-did-you-know-it-is-possible-4c474d0ec13f)
+##### 2024-10
+###### [Web Automation with AutoIt: 🔮 Did you know it is possible?](https://medium.com/@solvesmart/web-automation-with-autoit-did-you-know-it-is-possible-4c474d0ec13f)
 
 ### papers
 #### [![cheatography.com](https://img.shields.io/badge/cheatography.com-F47C00?style=for-the-badge&labelColor=black&logo=celery&logoColor=F47C00)](https://cheatography.com/solve-smart)
@@ -19,21 +22,14 @@
 
 #### [![sven-seyfert.de](https://img.shields.io/badge/sven--seyfert.de-648293?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=648293)](https://sven-seyfert.de)
 ##### ✔ up-to-date
-###### [Test Pyramid (en)](https://sven-seyfert.de/media/pdf/TestPyramid.pdf)
-###### [TDD, BDD & ATDD](https://sven-seyfert.de/media/pdf/TDD_BDD_ATDD.pdf)
+###### [Mobile Test Automation Architecture (2024)](https://sven-seyfert.de/media/pdf/2024-mobile-test-automation-architecture.pdf)
+###### [The practival Test Pyramid (2019)](https://sven-seyfert.de/media/pdf/TestPyramid.pdf)
+###### [TDD, BDD & ATDD explained (2016)](https://sven-seyfert.de/media/pdf/TDD_BDD_ATDD.pdf)
 
-##### ✖ old
-###### [Abstraction levels of a SpecFlow-Selenium approach (en)](https://sven-seyfert.de/media/pdf/SpecFlowSeleniumAbstractionLevels.pdf)
-###### [LogFramework](https://sven-seyfert.de/media/pdf/LogFramework.pdf)
-###### [DB_GlobalInsertGen](https://sven-seyfert.de/media/pdf/DB_GlobalInsertGen.pdf)
-
-## share
-
-### via posts
-#### [![x](https://img.shields.io/badge/sven__seyfert-1DA1F2?style=for-the-badge&labelColor=black&logo=x&logoColor=1DA1F2)](https://x.com/sven_seyfert)
-
-### via shorts
-#### [![youtube](https://img.shields.io/badge/Solve--Smart-D94D4A?style=for-the-badge&labelColor=black&logo=youtube&logoColor=D94D4A)](https://www.youtube.com/@solvesmart)
+##### ✖ outdated
+###### [Abstraction levels of a SpecFlow-Selenium approach (2020)](https://sven-seyfert.de/media/pdf/SpecFlowSeleniumAbstractionLevels.pdf)
+###### [LogFramework (2015)](https://sven-seyfert.de/media/pdf/LogFramework.pdf)
+###### [DB_GlobalInsertGen with user manual(2014)](https://sven-seyfert.de/media/pdf/DB_GlobalInsertGen.pdf)
 
 ## projects
 
@@ -47,7 +43,15 @@
 #### webdriverio-cucumber-web-template ...
 #### ...
 
+## shared via
 
+### [![x](https://img.shields.io/badge/sven__seyfert-1DA1F2?style=for-the-badge&labelColor=black&logo=x&logoColor=1DA1F2)](https://x.com/sven_seyfert)
+#### by posts
+##### [x] used
+
+### [![youtube](https://img.shields.io/badge/Solve--Smart-D94D4A?style=for-the-badge&labelColor=black&logo=youtube&logoColor=D94D4A)](https://www.youtube.com/@solvesmart)
+#### by shorts
+##### [ ] used
 
 [sven]:         assets/images/sven.png
 [solve-smart]:  assets/images/solve-smart.png
